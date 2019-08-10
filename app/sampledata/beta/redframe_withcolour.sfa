@@ -1,0 +1,42 @@
+{
+  materials: [
+    {
+      name: 'red',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 0.14744199999999999,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/beta/redframe_withcolour.obj',
+    name: 'redframe_withcolour',
+    recenter: 'root',
+    scale: 0.18,
+  },
+  version: '0.54:2',
+}

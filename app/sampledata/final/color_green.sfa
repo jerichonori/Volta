@@ -1,0 +1,42 @@
+{
+  materials: [
+    {
+      name: 'green',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.50196099999999999,
+            1,
+            0,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 0.14002800000000001,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/final/color_green.obj',
+    name: 'color_green',
+    recenter: 'root',
+    scale: 0.18,
+  },
+  version: '0.54:2',
+}

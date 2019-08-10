@@ -1,0 +1,19 @@
+# Exported from Wings 3D 2.2.4
+newmtl nonshiny_green
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.5019607843137255 1.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl white2
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
